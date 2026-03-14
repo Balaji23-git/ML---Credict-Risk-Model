@@ -58,7 +58,7 @@ The result is presented in an **interactive Streamlit web application**.
 
 ## Main Application Screen
 
-![Application UI](images/app_ui.png)
+![Application UI](./app_ui.png)
 
 The application allows users to enter borrower and loan details and instantly view risk predictions.
 
@@ -66,7 +66,7 @@ The application allows users to enter borrower and loan details and instantly vi
 
 ## Prediction Results
 
-![Prediction Results](images/prediction_results.png)
+![Prediction Results](./prediction_results.png)
 
 The system returns:
 
